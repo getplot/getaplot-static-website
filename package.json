@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/getplot/getaplot-static-website/issues"
   },
-  "homepage": "https://github.com/getplot/getaplot-static-website#readme"
+  "homepage": "https://github.com/getplot/getaplot-static-website#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
