@@ -3,7 +3,7 @@
  > Static website for getaplot.com
 
 
-## Want to contribute :eyes
+## Want to contribute :happy
 Awesome, contributions are well welcome
 
 ## Prerequisites
