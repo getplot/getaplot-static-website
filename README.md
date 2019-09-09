@@ -3,7 +3,7 @@
  > Static website for getaplot.com
 
 
-## Want to contribute :happy
+## Want to contribute :heart:
 Awesome, contributions are well welcome
 
 ## Prerequisites
